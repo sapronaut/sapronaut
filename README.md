@@ -6,3 +6,4 @@
 [`x`](https://x.com/Sapronaut22) |
 [`email`](saptarshi06chatterjee@gmail.com) |
 [`duolingo`](https://www.duolingo.com/profile/sapronaut22)
+[`blogs/articles`](https://sap-blog-indol.vercel.app/)
